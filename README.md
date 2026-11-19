@@ -1,8 +1,8 @@
 # TP POO PHP — Encapsulation et polymorphisme
 
 **Binôme :**
-- Membre 1 : NOM ET PRÉNOM
-- Membre 2 : NOM ET PRÉNOM
+- Membre 1 : FANOMEZANTSOA Tolojanahary
+- Membre 2 : RASOANANTENAINA Antsa Marie
 
 ## 1. Environnement
 
@@ -13,7 +13,7 @@
 ## 2. Arborescence
 
 ```text
-tp-poo-NOM1-NOM2/
+tp-poo-FANOMEZANTSOA_Tolojanahary_RASOANANTENAINA_Antsa_Marie/
 ├── src/
 │   ├── CompteBancaire.php
 │   ├── SoldeInsuffisantException.php
@@ -36,8 +36,6 @@ Ouvrir un terminal dans le dossier du projet puis exécuter :
 ```bash
 php tests.php
 ```
-
-## 4. Réponses aux questions du TP 1
 
 ### Q1. Pourquoi ne pas écrire de méthode `setSolde()` ?
 
